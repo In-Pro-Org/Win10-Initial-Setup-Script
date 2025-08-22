@@ -1,0 +1,14 @@
+name: Win10-Initial-Setup-Script
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/bdc87e6e-6353-4765-92e6-9f64316ff6b6
+description: PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
